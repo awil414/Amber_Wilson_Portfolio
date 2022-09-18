@@ -1,20 +1,24 @@
 body {
     font-family: "Open Sans", sans-serif;
     color:#5a656e;
-    background-color: rgb(F1FAEE);
+    background-color: #F1FAEE;
   }
 #navbar {
-    background-color: rgb(F1FAEE);
+    background-color: #F1FAEE;
 }
 #hero {
     color: white;
-    background-color: rgb(230, 59, 46);
+    background-color: #EF233C;
  } 
- #about-section {
+ /* about section image css */
+.imageAboutPage {
+    width: 100%;
+}
+/* #about-section {
     background: rgba(32, 33, 36, 0.1);
     position: relative;
 }
-
+/*
 .blockabout {
     padding: 20px;
     background: white;
@@ -49,6 +53,6 @@ body {
     border-radius: 50px;
     transition: all 0.3s;
 } 
-   
+*/
     
   
