@@ -5,7 +5,7 @@ This portfolio was created using HTML and CSS to showcase a sample of my work. I
 
 ## Github URL link
 
- ## Github Reposisitory link
+ ## Github Repository link
 
  ## Visuals
  
