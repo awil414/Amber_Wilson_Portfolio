@@ -6,7 +6,7 @@ This portfolio was created using HTML and CSS to showcase a sample of my work. I
 ## Github URL link
 https://awil414.github.io/Amber_Wilson_Portfolio/
  ## Github Repository link
-
+https://github.com/awil414/Amber_Wilson_Portfolio.git
  ## Visuals
  
  ## Authors and acknowledgement
