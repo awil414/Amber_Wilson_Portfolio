@@ -9,6 +9,8 @@ https://awil414.github.io/Amber_Wilson_Portfolio/
 https://github.com/awil414/Amber_Wilson_Portfolio.git
  ## Visuals
  
+ <img width="1280" alt="Screen Shot 2022-10-18 at 1 58 04 PM" src="https://user-images.githubusercontent.com/109228469/196519976-e818b753-dd16-492f-9b1d-7756c17fde93.png">
+
  ## Authors and acknowledgement
 Thank you to Vanderbilt Univeristy for starter code: built by Amber Wilson
 
